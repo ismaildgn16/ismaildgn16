@@ -1,4 +1,4 @@
-- ## Merhaba 👋 Ben İsmail.
+## Merhaba 👋 Ben İsmail
 - Şu anda Udemig'den React Front-End eğitimi alıyorum.
 - Kendimi bu alanda geliştiriyorum.
 - Bilgisayarlara küçüklüğümden beri ilgiliyim.
